@@ -2,3 +2,5 @@
 	defaultBranch = main
 [pull]
 	rebase = true
+[diff]
+	colorMoved = default
